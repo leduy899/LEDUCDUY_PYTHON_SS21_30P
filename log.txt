@@ -1,0 +1,17 @@
+WARNING: Kết quả: Tổng phí vận chuyển = 17000.0
+ERROR: Khoảng cách vận chuyển không được nhỏ hơn hoặc bằng 0
+WARNING: Kết quả: Tổng phí vận chuyển = 4000.0
+WARNING: Kết quả: Tổng phí vận chuyển = 17000.0
+ERROR: Khoảng cách vận chuyển không được nhỏ hơn hoặc bằng 0
+WARNING: Kết quả: Tổng phí vận chuyển = 4000.0
+INFO: Đang tính phí giao hàng cho phương thức express với khoảng cách 25 km
+WARNING: Kết quả: Tổng phí vận chuyển = 47000.0
+INFO: Đang tính phí giao hàng cho phương thức standard với khoảng cách -5 km
+INFO: Đang tính phí giao hàng cho phương thức express với khoảng cách 25 km
+WARNING: Kết quả: Tổng phí vận chuyển = 47000.0
+INFO: Đang tính phí giao hàng cho phương thức standard với khoảng cách -5 km
+INFO: Đang tính phí giao hàng cho phương thức express với khoảng cách 25 km
+WARNING: Kết quả: Tổng phí vận chuyển = 47000.0
+INFO: Đang tính phí giao hàng cho phương thức standard với khoảng cách -5 km
+INFO: Đang tính phí giao hàng cho phương thức express với khoảng cách 25 km
+WARNING: Kết quả: Tổng phí vận chuyển = 47000.0
